@@ -1,9 +1,15 @@
 ﻿Run stitch.py to generate the output
+
 cd video-object-removal
+
 cd get_mask
+
 bash make.sh
+
 cd ../inpainting
+
 bash install.sh
+
 cd ..
 
 ```python
